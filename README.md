@@ -33,4 +33,4 @@ This repository includes all the basics you need to learn to build an HTML websi
 ## 🔧 How to Use  
 1. **Clone the Repository:**  
 ```bash
-git clone https://github.com/rishaan007/HTML-Projects.git
+git clone https://github.com/rishaan007/HTML-Basics.git
